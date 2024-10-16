@@ -72,14 +72,14 @@
 //     let angka = prompt("Masukkan sebuah angka:");
 
 //     // // Ubah input menjadi angka
-//     // angka = parseInt(angka);
+//     angka = parseInt(angka);
 
-    // Cek apakah angka genap atau ganjil
-    // if (angka % 2 == 0) {
-    //     alert("genap");
-    // } else {
-    //     alert("ganjil cok");
-    // }
+//     // Cek apakah angka genap atau ganjil
+//     if (angka % 2 == 0) {
+//         alert("genap");
+//     } else {
+//         alert("ganjil cok");
+//     }
 
 
 // // Panggil fungsi    
@@ -91,4 +91,6 @@
 //     ngulang = confirm (`lagi nih`)
 // }
 
-
+hasil = 12
+ tambahan = prompt("masukan angka")
+ alert(hasil + tambahan )
